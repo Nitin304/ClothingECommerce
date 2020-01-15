@@ -2,7 +2,7 @@
   "name": "crown-clothing-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nitin304.github.io/ClothingECommerce/",
+  "homepage": "https://nitin304.github.io",
   "dependencies": {
     "firebase": "^7.5.0",
     "node-sass": "^4.13.0",
