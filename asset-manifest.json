@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ClothingECommerce/static/css/main.16d2481f.chunk.css",
-    "main.js": "/ClothingECommerce/static/js/main.53333cd0.chunk.js",
-    "main.js.map": "/ClothingECommerce/static/js/main.53333cd0.chunk.js.map",
-    "runtime-main.js": "/ClothingECommerce/static/js/runtime-main.bf566c0b.js",
-    "runtime-main.js.map": "/ClothingECommerce/static/js/runtime-main.bf566c0b.js.map",
-    "static/js/2.2b77d117.chunk.js": "/ClothingECommerce/static/js/2.2b77d117.chunk.js",
-    "static/js/2.2b77d117.chunk.js.map": "/ClothingECommerce/static/js/2.2b77d117.chunk.js.map",
+    "main.js": "/ClothingECommerce/static/js/main.cd0da32a.chunk.js",
+    "main.js.map": "/ClothingECommerce/static/js/main.cd0da32a.chunk.js.map",
+    "runtime-main.js": "/ClothingECommerce/static/js/runtime-main.2d80533a.js",
+    "runtime-main.js.map": "/ClothingECommerce/static/js/runtime-main.2d80533a.js.map",
+    "static/js/2.f11c577a.chunk.js": "/ClothingECommerce/static/js/2.f11c577a.chunk.js",
+    "static/js/2.f11c577a.chunk.js.map": "/ClothingECommerce/static/js/2.f11c577a.chunk.js.map",
     "index.html": "/ClothingECommerce/index.html",
-    "precache-manifest.ef4729a19f052aa49a1858346331065f.js": "/ClothingECommerce/precache-manifest.ef4729a19f052aa49a1858346331065f.js",
+    "precache-manifest.e7c29e6a2bcc6258d814074f7bdfac49.js": "/ClothingECommerce/precache-manifest.e7c29e6a2bcc6258d814074f7bdfac49.js",
     "service-worker.js": "/ClothingECommerce/service-worker.js",
     "static/css/main.16d2481f.chunk.css.map": "/ClothingECommerce/static/css/main.16d2481f.chunk.css.map",
     "static/media/crown.ed28accb.svg": "/ClothingECommerce/static/media/crown.ed28accb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf566c0b.js",
-    "static/js/2.2b77d117.chunk.js",
+    "static/js/runtime-main.2d80533a.js",
+    "static/js/2.f11c577a.chunk.js",
     "static/css/main.16d2481f.chunk.css",
-    "static/js/main.53333cd0.chunk.js"
+    "static/js/main.cd0da32a.chunk.js"
   ]
 }
